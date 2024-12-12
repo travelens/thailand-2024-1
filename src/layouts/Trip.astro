@@ -1,6 +1,5 @@
 ---
 import type { CollectionEntry } from 'astro:content'
-import { Image } from 'astro:assets'
 import Layout from 'astro-travelens/Layout.astro'
 import Header from 'astro-travelens/Header.astro'
 import Tags from 'astro-travelens/Tags.astro'
@@ -29,7 +28,7 @@ const slugify = (url: string) =>
   <Header />
   <div class='relative w-full flex items-center justify-center overflow-hidden bg-black -mt-24'>
     <div class='relative h-96'>
-      <Image src={trip.data.image} class='w-full object-cover opacity-50' alt={trip.data.title} />
+      <img src={trip.data.image.src} class='w-full object-cover opacity-50' alt={trip.data.title} />
     </div>
   </div>
   <div class='relative z-10 mx-auto max-w-4xl bg-white px-12 pt-12 -mt-32 lg:px-24'>

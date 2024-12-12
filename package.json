@@ -1,7 +1,7 @@
 {
-  "name": "trip-template",
+  "name": "thailand-2024",
   "author": "Chris Tham (chris@christham.net)",
-  "description": "Trip template for travelens",
+  "description": "Girl's trip to Thailand, visiting Chieng Rai, Chieng Mai and Bangkok. We have been planning this ever since the COVID-19 pandemic lockdown so it has taken almost 2 years to fruition!",
   "license": "MIT",
   "version": "2.0.0",
   "scripts": {
@@ -19,9 +19,9 @@
   },
   "dependencies": {
     "@astrojs/alpinejs": "^0.4.0",
-    "@astrojs/markdoc": "^0.12.2",
+    "@astrojs/markdoc": "^0.12.3",
     "alpinejs": "^3.14.7",
-    "astro": "^5.0.4",
+    "astro": "^5.0.5",
     "astro-seo": "^0.8.4",
     "astro-travelens": "^2.0.1",
     "exifr": "^7.1.3"
