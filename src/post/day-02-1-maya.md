@@ -3,7 +3,7 @@ title: 'Day 2: Early morning walk around Maya Mall'
 date: 2024-11-13T07:00:00+07:00
 description: 'Woke up early, and decided to explore our neighbourhood by walking to Maya Lifestyle Shopping Centre.'
 trip: Thailand 2024
-place: Thailand
+place: South East Asia
 timezone: Asia/Bangkok
 location: Maya Lifestyle Shopping Centre
 image: ../gallery/day-02-maya/05_Maya_Mall.webp

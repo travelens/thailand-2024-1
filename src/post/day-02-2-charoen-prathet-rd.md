@@ -3,7 +3,7 @@ title: 'Day 2: Charoen Prathet Rd'
 date: 2024-11-13T11:00:00+07:00
 description: 'We went to a foreign money exchange office in Charoen Prathet Rd, a historic street full of teak mansions beside the Ping River.'
 trip: Thailand 2024
-place: Thailand
+place: South East Asia
 timezone: Asia/Bangkok
 location: Charoen Prathet Rd
 image: ../gallery/day-02-charoen-prathet-rd/03_Tuk_Tuk.webp

@@ -3,7 +3,7 @@ title: 'Day 3: Wat Replica'
 date: 2024-11-14T11:00:00+07:00
 description: 'Abandoned "temple" next to Thaweesin hot springs.'
 trip: Thailand 2024
-place: Thailand
+place: South East Asia
 timezone: Asia/Bangkok
 location: Wat Replica
 image: ../gallery/day-03-wat-replica/16_Wat_Replica.webp

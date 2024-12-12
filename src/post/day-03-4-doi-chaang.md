@@ -3,7 +3,7 @@ title: 'Day 3: Lunch at DOI CHAANG Caffè'
 date: 2024-11-14T12:00:00+07:00
 description: 'Lunch at a cafe owned by Doi Chaang, a well known Thai mountain coffee producer.'
 trip: Thailand 2024
-place: Thailand
+place: South East Asia
 timezone: Asia/Bangkok
 location: DOI CHAANG Caffè
 image: ../gallery/day-03-doi-chaang/14_Doi_Chaang.webp

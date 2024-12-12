@@ -3,7 +3,7 @@ title: 'Day 3: Dinner at Lu Lam'
 date: 2024-11-14T21:00:00+07:00
 description: 'Dinner at a popular riverside restaurant in Chiang Rai near to Kok River.'
 trip: Thailand 2024
-place: Thailand
+place: South East Asia
 timezone: Asia/Bangkok
 location: Lu Lam
 image: ../gallery/day-03-lu-lam/01_Stair.webp

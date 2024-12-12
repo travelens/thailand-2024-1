@@ -1,6 +1,6 @@
 ---
 title: Thailand 2024
-place: Thailand
+place: South East Asia
 timezone: Asia/Bangkok
 location: Thailand
 start: 2024-11-12T10:00:00+11:00

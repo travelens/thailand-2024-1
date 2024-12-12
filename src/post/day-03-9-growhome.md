@@ -3,7 +3,7 @@ title: 'Day 3: Grow Home'
 date: 2024-11-14T22:00:00+07:00
 description: 'We stayed overnight at this trendy accommodation in Chiang Rai.'
 trip: Thailand 2024
-place: Thailand
+place: South East Asia
 timezone: Asia/Bangkok
 location: Grow Home
 image: ../gallery/day-03-growhome/13_Performance_space.webp

@@ -3,7 +3,7 @@ title: 'Day 3: White Temple Chiang Rai'
 date: 2024-11-14T15:00:00+07:00
 description: 'The fammous and popular dazzlingly white reflective temple in Chiang Rai.'
 trip: Thailand 2024
-place: Thailand
+place: South East Asia
 timezone: Asia/Bangkok
 location: White Temple
 image: ../gallery/day-03-white-temple/014_White_Temple.webp
