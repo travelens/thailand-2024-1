@@ -2,7 +2,7 @@
 title: 'Day 3: Thaweesin Hot Springs'
 date: 2024-11-14T10:00:00+07:00
 description: 'First stop on our private tour on the way to Chiang Rai.'
-trip: Thailand 2024
+trip: Thailand 2024 Part 1
 place: South East Asia
 timezone: Asia/Bangkok
 location: Thaweesin Hot Springs

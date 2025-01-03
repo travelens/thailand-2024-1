@@ -2,7 +2,7 @@
 title: 'Day 2: Early morning walk around Maya Mall'
 date: 2024-11-13T07:00:00+07:00
 description: 'Woke up early, and decided to explore our neighbourhood by walking to Maya Lifestyle Shopping Centre.'
-trip: Thailand 2024
+trip: Thailand 2024 Part 1
 place: South East Asia
 timezone: Asia/Bangkok
 location: Maya Lifestyle Shopping Centre
@@ -25,6 +25,10 @@ tags:
 ---
 
 Cat and I both woke up early, around 5AM local time (since that corresponded to 9AM Sydney time), so we decided to explore the neighbourhood.
+
+Nearby is an old mansion that looked like it has seen better days:
+
+![Old Mansion](../gallery/day-02-maya/04_Mansion.webp)
 
 We sneaked out of the house around 7AM and walked out of the quite residential street of Soi Muban Lanna Villa onto the main road (Interestingly named the Super Highway!). Across the Super Highway is [MAYA Lifestyle Shopping Center Chiangmai เมญ่า ไลฟ์สไตล์ ช้อปปิ้ง เซ็นเตอร์ เชียงใหม่](https://mayashoppingcenter.com). This is a big mall with cinemas, concept stores, supermarket, and many dining options, but it was not yet open:
 

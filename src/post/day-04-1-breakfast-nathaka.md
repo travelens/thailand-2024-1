@@ -2,7 +2,7 @@
 title: 'Day 4: Breakfast at Nanthaka Rice Porridge'
 date: 2024-11-15T08:00:00+07:00
 description: 'We had rice porridge for breakfast in Chiang Rai located opposite the Wat Ming Mueang'
-trip: Thailand 2024
+trip: Thailand 2024 Part 1
 place: South East Asia
 timezone: Asia/Bangkok
 location: Nanthaka Rice Porridge

@@ -2,7 +2,7 @@
 title: 'Day 3: Breakfast at Jok Somphet'
 date: 2024-11-14T08:00:00+07:00
 description: 'Congee breakfast on the way to Chiang Rai.'
-trip: Thailand 2024
+trip: Thailand 2024 Part 1
 place: South East Asia
 timezone: Asia/Bangkok
 location: Jok Somphet

@@ -2,7 +2,7 @@
 title: 'Day 5: Wandering around Mae Kampong'
 date: 2024-11-16T14:00:00+07:00
 description: 'After lunch we walked around the Mae Kampong village, and discovered a temple with a beautiful chapel next to a stream.'
-trip: Thailand 2024
+trip: Thailand 2024 Part 1
 place: South East Asia
 timezone: Asia/Bangkok
 location: Mae Kampong

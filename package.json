@@ -21,7 +21,7 @@
     "@astrojs/alpinejs": "^0.4.1",
     "@astrojs/markdoc": "^0.12.4",
     "alpinejs": "^3.14.8",
-    "astro": "^5.1.1",
+    "astro": "^5.1.2",
     "astro-seo": "^0.8.4",
     "astro-travelens": "^2.0.1",
     "exifr": "^7.1.3"

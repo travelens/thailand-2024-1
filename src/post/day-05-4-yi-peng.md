@@ -2,13 +2,13 @@
 title: 'Day 5: Attending the Chiang Mai CAD Khom Loy Sky Lantern Festival'
 date: 2024-11-16T21:00:00+07:00
 description: 'We attended the combined Loy Krathong/Yi Peng festival on the outskirts of Chiang Mai.'
-trip: Thailand 2024
+trip: Thailand 2024 Part 1
 place: South East Asia
 timezone: Asia/Bangkok
 location: Khom Loy festival
 image: ../gallery/day-05-yi-peng/39_Lanterns.webp
 gallery: day-05-yi-peng
-map: [18.7663194,99.2421828, 17]
+map: [18.7663194, 99.2421828, 17]
 tags:
   - Chiang Mai CAD
   - Yi Peng

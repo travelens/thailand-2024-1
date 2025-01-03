@@ -2,7 +2,7 @@
 title: 'Day 3: Guan Yin Statue'
 date: 2024-11-14T20:00:00+07:00
 description: 'Fabulous dinner at a trendy restaurant by the Ping River called Chefs Together.'
-trip: Thailand 2024
+trip: Thailand 2024 Part 1
 place: South East Asia
 timezone: Asia/Bangkok
 location: Guan Yin Statue

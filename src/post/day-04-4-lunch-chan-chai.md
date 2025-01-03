@@ -2,7 +2,7 @@
 title: 'Day 4: Lunch at Chan Chai'
 date: 2024-11-15T14:00:00+07:00
 description: 'We headed back to Chiang Mai and on the way back stopped by to have lunch at this delightful restaurant.'
-trip: Thailand 2024
+trip: Thailand 2024 Part 1
 place: South East Asia
 timezone: Asia/Bangkok
 location: Chan Chai

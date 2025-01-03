@@ -2,7 +2,7 @@
 title: 'Day 5: Thai Silk Village'
 date: 2024-11-16T10:00:00+07:00
 description: 'Thai Silk village is a silk factory located at San Kamphaeng District where is a road of culture, art and traditional way of life.'
-trip: Thailand 2024
+trip: Thailand 2024 Part 1
 place: South East Asia
 timezone: Asia/Bangkok
 location: Thai Silk Village

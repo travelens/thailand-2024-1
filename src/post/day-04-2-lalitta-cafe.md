@@ -2,7 +2,7 @@
 title: 'Day 4: Lalitta Cafe'
 date: 2024-11-15T11:00:00+07:00
 description: 'Lalitta Cafe is a trendy, Instagrammable fairy-tale cafe set amongst lush greenery and cascading waterfalls.'
-trip: Thailand 2024
+trip: Thailand 2024 Part 1
 place: South East Asia
 timezone: Asia/Bangkok
 location: Lalitta Cafe

@@ -2,7 +2,7 @@
 title: 'Day 5: Lunch at Mae Kampong'
 date: 2024-11-16T12:00:00+07:00
 description: 'We visited the traditional village of Mae Kampong. First stop was lunch at one of the restaurants in the area.'
-trip: Thailand 2024
+trip: Thailand 2024 Part 1
 place: South East Asia
 timezone: Asia/Bangkok
 location: Kao Ba Fuaeng

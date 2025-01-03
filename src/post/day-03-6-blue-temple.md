@@ -2,7 +2,7 @@
 title: 'Day 3: Blue Temple Chiang Rai'
 date: 2024-11-14T18:00:00+07:00
 description: 'Another popular and Instagrammable modern temple at the best time of day - during sunset.'
-trip: Thailand 2024
+trip: Thailand 2024 Part 1
 place: South East Asia
 timezone: Asia/Bangkok
 location: Blue Temple

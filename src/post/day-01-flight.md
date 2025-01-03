@@ -2,7 +2,7 @@
 title: 'Day 1: Flight to Chiang Mai'
 date: 2024-11-12T07:21:00+07:00
 description: We had a pleasant checkin experience, had breakfast at the AMEX lounge, before boarding a flight to Bangkok. We stopped for 3 hours in Bangkok which was enough time, before boarding a flight to Chieng Mai. We arrived safely and checked into an AirBNB house for our stay here.
-trip: Thailand 2024
+trip: Thailand 2024 Part 1
 place: South East Asia
 timezone: Asia/Bangkok
 location: Chiang Mai
