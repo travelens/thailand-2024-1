@@ -51,9 +51,11 @@ The flight was uneventful and quite pleasant. I was pleasantly surprised that I 
 
 ## Bangkok stopover
 
-We arrived in Suvarnabhumi Airport, Bangkok, in the afternoon and cleared customs. Since we had around three hours before the next flight to Chieng Mai, we wandered around the transit area and decided to have an early dinner at Thai Street Food. I had the tom yum noodle for 231 baht (around A$11) - it was delicious and surprisingly quite filling. The others had Thai chicken rice and BBQ Portk and wantan dry noodles.
+We arrived in Suvarnabhumi Airport, Bangkok, in the afternoon and cleared customs. Since we had around three hours before the next flight to Chieng Mai, we wandered around the transit area and decided to have an early dinner at [Thai Street Food by KIN](https://bester-eats.com/en/restaurant/111499/) - อำเภอบางพลี (สมุทรปราการ). I had the tom yum noodle for 231 baht (around A$11) - it was delicious and surprisingly quite filling. The others had Thai chicken rice and BBQ Portk and wantan dry noodles.
 
 ![Group](../gallery/day-01-flight/11_Group.webp)
+
+![Thai Street Food](../gallery/day-01-flight/15_Thai_Street_Food.webp)
 
 ![Tom yum noodle](../gallery/day-01-flight/12_Tom_yum_noodle.webp)
 
