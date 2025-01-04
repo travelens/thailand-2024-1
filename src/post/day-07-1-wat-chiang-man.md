@@ -1,6 +1,6 @@
 ---
 title: 'Day 7: Wat Chiang Man'
-date: 2024-11-20T09:00:00+07:00
+date: 2024-11-18T09:00:00+07:00
 description: 'Today we went on a tuk tuk tour of the old city. First stop is Wat Chiang Man, a delightful temple.'
 trip: Thailand 2024 Part 1
 place: South East Asia

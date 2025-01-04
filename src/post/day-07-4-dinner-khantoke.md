@@ -1,6 +1,6 @@
 ---
 title: 'Day 7: Khum Khantoke dinner and show'
-date: 2024-11-20T20:00:00+07:00
+date: 2024-11-18T20:00:00+07:00
 description: 'On our last night in Chiang Mai we attended Khum Khantoke which consists of traditional Lanna dining and performances.'
 trip: Thailand 2024 Part 1
 place: South East Asia

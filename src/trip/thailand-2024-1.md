@@ -4,7 +4,7 @@ place: South East Asia
 timezone: Asia/Bangkok
 location: Thailand
 start: 2024-11-12T10:00:00+11:00
-end: 2024-11-21T12:00:00+7:00
+end: 2024-11-19T12:00:00+7:00
 description: "Part 1 of a long planned and awaited Girl's trip to Thailand, where we visit Chiang Rai and Chiang Mai. in Part 2 we continue our trip in Bangkok."
 image: ./trip.jpeg
 tags:

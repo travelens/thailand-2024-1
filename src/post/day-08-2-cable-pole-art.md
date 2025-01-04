@@ -1,6 +1,6 @@
 ---
 title: 'Postscript - the art of cable wiring on poles in Northern Thailand'
-date: 2024-11-21T08:00:00+07:00
+date: 2024-11-19T08:00:00+07:00
 description: 'I am convinced cabling on poles is an art form in Thailand.'
 trip: Thailand 2024 Part 1
 place: South East Asia

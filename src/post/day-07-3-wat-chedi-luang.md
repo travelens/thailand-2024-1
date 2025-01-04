@@ -1,6 +1,6 @@
 ---
 title: 'Day 7: Wat Chedi Luang'
-date: 2024-11-20T11:00:00+07:00
+date: 2024-11-18T11:00:00+07:00
 description: 'The last stop on our tuk tuk tour of Chiang Mai is the Wat Chedi Luang.'
 trip: Thailand 2024 Part 1
 place: South East Asia

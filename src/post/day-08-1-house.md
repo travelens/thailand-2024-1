@@ -1,6 +1,6 @@
 ---
 title: 'Day 8: The Airbnb property we stayed in Chiang Mai'
-date: 2024-11-21T07:00:00+07:00
+date: 2024-11-19T07:00:00+07:00
 description: 'As we prepare to leave Chiang Mai to board a flight to Bangkok, I took some photos of the Airbnb house we stayed in Chiang Mai.'
 trip: Thailand 2024 Part 1
 place: South East Asia

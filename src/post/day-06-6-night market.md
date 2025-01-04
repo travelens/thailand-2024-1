@@ -1,6 +1,6 @@
 ---
 title: 'Day 6: Sunday night (Walking Street) market'
-date: 2024-11-18T20:00:00+07:00
+date: 2024-11-17T20:00:00+07:00
 description: 'We visited the Chiang Mai Sunday night market held in the inner part of the city from Wat Phra Singh the Tha Pae Gate.'
 trip: Thailand 2024 Part 1
 place: South East Asia

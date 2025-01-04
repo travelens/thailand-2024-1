@@ -1,6 +1,6 @@
 ---
 title: 'Day 7: Wat Phra Singh'
-date: 2024-11-20T10:00:00+07:00
+date: 2024-11-18T10:00:00+07:00
 description: 'The second stop on our tuk tuk tour of Chiang Mai is the Wat Chedi Luang, or "temple of the big stupa".'
 trip: Thailand 2024 Part 1
 place: South East Asia

@@ -1,6 +1,6 @@
 ---
 title: 'Day 6: Wat Tung Yu'
-date: 2024-11-19T20:00:00+07:00
+date: 2024-11-17T20:00:00+07:00
 description: 'We discovered this charming temple whilst visiting the Sunday night market. It looked glorious at night.'
 trip: Thailand 2024 Part 1
 place: South East Asia
