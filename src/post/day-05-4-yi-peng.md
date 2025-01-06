@@ -30,3 +30,14 @@ I found the Yi Peng festival celebratory and magical, and the Loy Krathong conte
 This is my video of the event - it was an amazing experience and one I will remember forever. I think we lit up enough lanterns to light up a street! Shot in widescreen for that dramatic cinematic look - but there is no screen wide enough to capture the sky that night!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rAlcZfLIYC4?si=fJY_Ln_9x3BlTZzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Here is another video captured by Aileen:
+
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/shorts/V7fmSmmzadw"
+title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture;
+web-share"
+allowfullscreen>
+</iframe>
