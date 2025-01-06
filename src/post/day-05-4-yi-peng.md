@@ -33,11 +33,4 @@ This is my video of the event - it was an amazing experience and one I will reme
 
 Here is another video captured by Aileen:
 
-<iframe width="315" height="560"
-src="https://www.youtube.com/embed/shorts/V7fmSmmzadw"
-title="YouTube video player" frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-gyroscope; picture-in-picture;
-web-share"
-allowfullscreen>
-</iframe>
+<iframe width="449" height="799" src="https://www.youtube.com/embed/V7fmSmmzadw" title="Chiang Mai CAD Khomloy Sky Lantern Festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
