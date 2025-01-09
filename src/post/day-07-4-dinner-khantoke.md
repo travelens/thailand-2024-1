@@ -23,3 +23,19 @@ with Northern classical dances.
 We arrived at the venue dressed in traditional Thai outfits and it took a while for our khantoke to arrive as the venue seems to be prioritising large tour groups. However, the food was good and it was bottomless as well which helped.
 
 There were various shows including a tee dance and various hill tribe dances.
+
+This is the video of the parade and Tee dance:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlOIfyrSSOg?si=2Tg9q09bJQvzSngF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+This is a video of the War Dance and Sword Dance:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hG9S3RdFBIY?si=xuv31gHcdoXetVHn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+This is a video of the flower dance:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hbZEVrsY1jk?si=CSvXTllRO9q6n2VT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+And finally this is a video of the Hill Tribe dance:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hFtwgjck5I?si=NiLwfbjJBU-0_Pof" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

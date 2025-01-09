@@ -21,6 +21,10 @@ This is our last day in Chiang Mai. We opted for a tuk tuk tour of the old city:
 
 The tuk tuk took Margaret and I around the perimeter of the old city and we can see the remains of the old city walls and moat.
 
+This video gives a glimpse of what the tuk tuk ride was like:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6AU9IDS1aAE?si=8eU30ybfYdb-bHYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Chiang Mai ("new city") was founded in 1296 CE (1839 BE) by King Mangrai (Phaya Mangrai), who was the premier ruler of the Lanna Kingdom. The city was intended to replace Chiang Rai as the capital of the Lanna Kingdom. The city was established in an area that was formerly part of the Hariphunchai Kingdom (in present-day Lamphun Province) next to the Ping River. King Mangrai built the city as the political, commercial, and cultural center of Lanna.
 
 Chiang Mai was designed with a well-planned layout, which featured city walls and a moat surrounding the city for the purpose of slowing down invasion as well as a security structure for those going in and out of the city. There are currently five main gates in the city wall that attest to the glorious past: Tha Phae Gate, Suan Dok Gate, Chang Phuak Gate, Chiang Mai Gate, and Saen Phu Gate. The early construction of Chiang Mai emphasized the building of important temples and religious sites, thus making the city a religious and cultural hub.
@@ -34,3 +38,7 @@ The main viharn contains multiple golden statues of Buddhas on a mondop structur
 At the back of the temple is the Ho Trai (Temple Library) set on an artificial island in the middle of a lotus pond. We were allowed to pose for photographs on the bridge to the library, but not allowed to enter the library itself.
 
 There is also an ubosot here which we did not enter.
+
+This video gives an overview of the interior of the smaller viharn with the Crystal Buddha and the murals:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OVlrQHTGhiw?si=D-4kKb-UDZ4do7R0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

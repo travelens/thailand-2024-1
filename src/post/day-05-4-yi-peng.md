@@ -27,6 +27,18 @@ A Kratong is decorated with elaborately-folded banana leaves, incense sticks, an
 
 I found the Yi Peng festival celebratory and magical, and the Loy Krathong contemplative and reflective. Due to the risk of fire, the former is now banned in the city of Chiang Mai but still allowed on the outskirts. Traditionally, both are celebrated by families and communities. Being tourists, we bought Premium tickets (6400 baht per person) to the "official" Chiangmai CAD Khomloy Sky Lantern Festival which combined both festivals along with dinner and a concert/performance. I must admit, I was surprised by how expensive the tickets are - they cost all the way up to nearly A$1000 (for "Elite" tickets - 15,500 baht). But when I saw the level of organisation involved, particularly to manage the risk of fire and providing food and entertainment to thousands of people, I understood. It's a very touristy event - with lots of Japanese, Brazilian, Chinese and other nationalities attending. I am guessing the average Thai won't be able to afford the ticket prices. I have read some criticism of the event - that it represents a fire and environmental risk, with the lanterns blocking air traffic, harming wildlife and polluting the countryside, but I would also like to think about the economic benefits to the region, and at the end of the day it was a truly magical and uplifting moment.
 
+THis is a video of the pre-festival activities:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QkDUZZZywWc?si=d6jl9Np_KAYPYFAB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+This is a video of the fireworks that we watched during dinner:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ISpnh_mbwOk?si=aJvCjv__tR3WHoFZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+This is a video of the concert prior to the lighting of the sky lantern:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hRPE_eHVauw?si=ejdkPAx_m2fjwYcF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 This is my video of the event - it was an amazing experience and one I will remember forever. I think we lit up enough lanterns to light up a street! Shot in widescreen for that dramatic cinematic look - but there is no screen wide enough to capture the sky that night!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rAlcZfLIYC4?si=fJY_Ln_9x3BlTZzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

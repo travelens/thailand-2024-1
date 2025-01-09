@@ -74,3 +74,7 @@ After dinner, we walked along the Ping riverbank, and crossed the Iron Bridge. W
 On the way back, we drove past Tha Pae St which were lit up using many light arches for the festival.
 
 ![Tha Pae St lights](../gallery/day-02-dinner/28_Tha_Pae_St_lights.webp)
+
+This video provides an overview of the night:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3-wRSvBOg2Q?si=lKRH7Z7i_bMTqwuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

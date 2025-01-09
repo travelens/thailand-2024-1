@@ -22,3 +22,7 @@ We arrived at [Wat Huay Pla Kang วัดห้วยปลากั้ง](htt
 Interestingly, Guanyin is sometimes depicted as a man and sometimes as a woman, and often with androgynous features. The Japanese regard Guanyin as a man and call him Kannon (fun fact: Canon camera was named after Kannon). At least one sutra ascribe Guanyin as the creator of the world, and perhaps therefore genderless. My theory is that in order to be truly merciful, one has to embrace both male and female qualities. Anyway, he/she looked beautiful at night, and the adjoining white stucco ubosot was full of reliefs of various Buddhist scenes.
 
 I didn't go into the nine-level "Pobchoke Dhammachedi" chedi (pagoda), but it was beautifully lit up.
+
+This is a video of the Guan Yin statue:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0WruiKDGfPE?si=5hCZz5eLhjnUWkjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

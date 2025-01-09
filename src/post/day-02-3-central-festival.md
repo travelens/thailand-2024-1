@@ -77,3 +77,7 @@ After Central Festival, we headed to Warorot Market via songthaew to find some t
 ![Warorot Market](../gallery/day-02-central-festival/19_Warorot_Market.webp)
 
 Here, everyone managed to find something to buy, and we also had some delicious soda drinks. By 4pm hwoever, we were pretty exhausted and caught our final songthaew for the day to head back to the AirBNB house. The route back seemed to take forever and I can only assume it was peak hour on the main roads. The cost was still the same though (30 baht per person).
+
+This video gives a glimpse of how to make a Thai dessert:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sz6Cgcs4uRs?si=WCKXQ4k6HBbqonm3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

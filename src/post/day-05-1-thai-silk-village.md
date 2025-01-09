@@ -21,3 +21,7 @@ In the morning, we visited the Thai Silk Village (บริษัท ไทย�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ca7HyWtiUeM?si=p4DdDRvdx6JfaVvd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 We stopped by at the entrance to take some photos before venturing inside. I was quite interested in the silkworm exhibit and factory as I have never seen silk being made before. The adjoining shop contained many lovely fabrics and ready made clothes. However, I did not buy anything, even though the prices in the clearance section were actually quite reasonable.
+
+This video gives an overview of the operation of the silk factory:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MieXjXQBlLc?si=2NdSYAsOatVtn1o5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

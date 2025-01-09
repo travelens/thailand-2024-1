@@ -26,3 +26,7 @@ This is a map of the cafe (from the website):
 ![Map](https://www.lalittacafe.com/wp-content/uploads/2022/11/รวมแผนที่-ล่าสุด-scaled.jpg)
 
 We spent a happy time wandering around the forest paths - the clever design of intricate curvy paths covered with mist made the place a lot bigger than it actually was. Margaret and I had coffee and cake here whilst the other ladies had foot massages.
+
+This video is a walkthrough of Lalitta Cafe:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CnBJMPvZ8pw?si=aA0ukU_laGJVbj0K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -23,3 +23,15 @@ The giant street parade takes place in the evening and features a vibrant proces
 We saw traditional performances, cultural displays, and various forms of artistic expression in the parade. Afterwards, we sampled some street food. I was surprised the street vendors hurriedly packed up and left after we ordered, and then I realised the street was being reopened after the parade had passed and they were all blocking the road.
 
 Because the street was so crowded, we had our driver order two tuk tuks to carry us home, but we had to wait a while for them to arrive because of traffic. However, we managed to enjoy some fireworks whilst waiting for the tuk tuks.
+
+This is a video of the street parade:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fQb67RNfe68?si=Yjyy8yOKC-mohIM-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+And this is a video of me wandering around looking at street food and lights, including the fireworks display:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D93iZbzA0lw?si=QhSdxuJsDQ7iIQvj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+And finally this is the video of our tuk tuk ride at night to return back to our accommodation:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v5r09TwND3M?si=m8DbCuyhzyZU0W7j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,3 +18,7 @@ tags:
 After lunch, we walked around the Mae Kampong (แม่กำปอง) village. The village may look centuries old, but it is in fact only about 100 years ago that a few people settled here in order to grow tea and coffee. The village survives mainly on eco-tourism, and has many cafes, homestays. Today there are about 500 people living in over 120 houses in this village.
 
 We walked up the main street of the village into a side street where I can see some residential houses next to the stream. After that, we continued to walk upwards, and discovered a gem of a hidden temple, called Wat Khantha Pruksa (พิพิธภัณฑ์คน-ป่า-เหมี้ยง), also known as Wat Mae Kampong. It is a 100-year-old temple with Lanna-style architecture, featuring intricate carvings and wooden structures. Its most unique feature is a small chapel that seems to float on a pond. Nestled in lush greenery, the temple offers a tranquil setting where we can hear the soothing sounds of the nearby stream and the gentle sway of the trees. Nearby is the Namtok Mae Kampong waterfall, but we did not get a chance to see it.
+
+This video gives a good overview of Mae Kampong, including what we had for lunch, and the chapel:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aXCELO84GrM?si=Z1xaubpYB2NddrVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
