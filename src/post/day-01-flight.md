@@ -18,6 +18,10 @@ tags:
   - Chieng Mai
 ---
 
+This is my packed suitcase, ready for the flight:
+
+![Suitcase](../gallery/day-01-flight/00_Suitcase.webp)
+
 ## Checkin
 
 Margaret and I took at taxi at 6:30am and arrived at Sydney Airport International Terminal. Fortunately, at this hour of the day, with nearly 3 hours before our flight, the queue at the checkin counter was quite short, plus we had already checked in online the day before so we just needed to drop our bags. The girl behind the counter was Indonesian and she was very helpful and checked our luggage all the way to Chieng Mai. She also assisted us with boarding the lane.

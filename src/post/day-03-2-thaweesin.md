@@ -24,3 +24,7 @@ The vendor told us his prices were cheaper than in Chiang Rai, and this is parti
 I did end up doing a quick tour around the place and it was quaint but has obviously seen better times. It's basically just a garden around the hot springs surrounded by shops, with some unfinished constructions at the back. Patter, our tour guide, took pity on us and took a few pictures of us standing next to the hot geyser.
 
 I think we ended up spending over an hour here at what was supposed to be a quick 30 minute comfort stop. After that Patter realised his carefully constructed dense itinerary is in serious jeopardy, so he did some quick improvisation and suggested our next stop should be lunch along the way rather than heading straight to White Temple. We heartily agreed, because breakfast now seemed a long time ago.
+
+To give you an idea how much we bought here, this is my shopping bag:
+
+![Shopping](../gallery/day-03-thaweesin/12_Shopping.webp)
