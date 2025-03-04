@@ -1,9 +1,10 @@
 ---
 import type { CollectionEntry } from 'astro:content'
 import { getCollection, render } from 'astro:content'
-import Map from 'astro-travelens/Map.astro'
-import Post from '../layouts/Post.astro'
-import Gallery from '../components/Gallery.astro'
+import { Image } from 'astro:assets'
+import Map from '../common/Map.astro'
+import Post from '../common/Post.astro'
+import Gallery from '../common/Gallery.astro'
 import TripImage from '../trip/trip.jpeg'
 
 // 1. Generate a new path for every collection entry
@@ -59,8 +60,8 @@ const { Content } = await render(post)
           class='font-heading relative block h-72 flex items-center justify-center bg-black text-white tracking-widest uppercase hover:opacity-75'
         >
           <div class='relative z-10'>Previous: {prev.data.title}</div>
-          <img
-            src={prev.data.image.src}
+          <Image
+            src={prev.data.image}
             width={1024}
             class='absolute inset-0 h-full w-full object-cover opacity-50'
             alt={prev.data.title}
@@ -75,8 +76,8 @@ const { Content } = await render(post)
       class='font-heading relative block h-72 flex items-center justify-center bg-black text-white tracking-widest uppercase hover:opacity-75'
     >
       <div class='relative z-10'>Back to Trip: {post.data.trip}</div>
-      <img
-        src={TripImage.src}
+      <Image
+        src={TripImage}
         width={1024}
         class='absolute inset-0 h-full w-full object-cover opacity-50'
         alt={post.data.trip}
@@ -89,8 +90,8 @@ const { Content } = await render(post)
           class='font-heading relative block h-72 flex items-center justify-center bg-black text-white tracking-widest uppercase hover:opacity-75'
         >
           <div class='relative z-10'>Next: {next.data.title}</div>
-          <img
-            src={next.data.image.src}
+          <Image
+            src={next.data.image}
             width={1024}
             class='absolute inset-0 h-full w-full object-cover opacity-50'
             alt={next.data.title}

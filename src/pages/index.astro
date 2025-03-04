@@ -1,7 +1,8 @@
 ---
 import { getCollection, render } from 'astro:content'
-import Trip from '../layouts/Trip.astro'
-import Tripmap from '../components/Tripmap.astro'
+import { Image } from 'astro:assets'
+import Trip from '../common/Trip.astro'
+import Tripmap from '../common/Tripmap.astro'
 
 const trips = await getCollection('trip', ({ data }) => {
   return data.draft !== true
@@ -26,8 +27,8 @@ const sortedPosts = posts.sort((a, b) => +a.data.date - +b.data.date)
       <div class='grid grid-cols-1 mx-auto mb-4 rounded-lg bg-rose-50 px-6 py-4 shadow-lg shadow-neutral-400 container lg:grid-cols-2'>
         <div class='relative h-52 lg:h-auto md:h-72'>
           <a href={`${import.meta.env.BASE_URL}` + post.id}>
-            <img
-              src={post.data.image.src}
+            <Image
+              src={post.data.image}
               width={1024}
               class='absolute inset-0 h-full w-full bg-white object-cover p-4 hover:bg-pink-200'
               alt={post.data.title}
